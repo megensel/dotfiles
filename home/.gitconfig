@@ -1,6 +1,6 @@
 [core]
   whitespace=fix,-indent-with-non-tab,trailing-space,cr-at-eol
-	excludesfile = /Users/megensel/.gitignore_global
+  excludesfile = /Users/megensel/.gitignore_global
 
 [color]
   branch = auto
